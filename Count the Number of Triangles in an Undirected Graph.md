@@ -5,6 +5,8 @@ To write a Python program to **count the number of triangles** present in an **u
 
 ## ALGORITHM:
 
+
+
 **Step 1**: Initialize a matrix `aux2` to store the square of the adjacency matrix (i.e., `graph²`).  
 Also, initialize a matrix `aux3` to store the cube of the adjacency matrix (i.e., `graph³`).
 
