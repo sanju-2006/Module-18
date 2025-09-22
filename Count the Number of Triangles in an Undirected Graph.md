@@ -3,6 +3,8 @@
 ## AIM:
 To write a Python program to **count the number of triangles** present in an **undirected graph** using matrix operations.
 
+
+
 ## ALGORITHM:
 
 **Step 1**: Initialize a matrix `aux2` to store the square of the adjacency matrix (i.e., `graph²`).  
