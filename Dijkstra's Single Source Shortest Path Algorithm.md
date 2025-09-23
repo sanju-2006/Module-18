@@ -83,22 +83,15 @@ g.dijkstra(0);
 ```
 
 ## OUTPUT
-```
-Vertex   Distance from Source
-0             0
-1             4
-2             12
-3             19
-4             21
-5             11
-6             9
-7             8
-8             14
-```
+
+
+<img width="797" height="390" alt="image" src="https://github.com/user-attachments/assets/4ab6674b-c997-4f28-afd7-77df8f32934c" />
+
 
 
 ## RESULT
 
-<img width="797" height="390" alt="image" src="https://github.com/user-attachments/assets/4ab6674b-c997-4f28-afd7-77df8f32934c" />
+Python program for **Dijkstra's single source shortest path algorithm** is successfully verified.
+
 
 
