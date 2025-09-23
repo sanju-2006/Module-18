@@ -64,9 +64,10 @@ if __name__ == "__main__":
 
 ## OUTPUT
 
-80
+<img width="699" height="175" alt="image" src="https://github.com/user-attachments/assets/01e8b3f2-bb03-4f86-84d2-37bfba4dfe13" />
 
 ## RESULT
 
-<img width="699" height="175" alt="image" src="https://github.com/user-attachments/assets/01e8b3f2-bb03-4f86-84d2-37bfba4dfe13" />
+Python program to **count the number of triangles** present in an **undirected graph** using matrix operations is successfully verified.
+
 
