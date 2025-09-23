@@ -85,17 +85,11 @@ g.primMST()
 
 ## OUTPUT
 
-```
-Edge   Weight
-0 - 1    2
-1 - 2    3
-0 - 3    6
-1 - 4    5
-```
+<img width="445" height="244" alt="image" src="https://github.com/user-attachments/assets/b5e238c8-f72f-45ac-bb92-7327b19674c5" />
+
 
 
 ## RESULT
 
-<img width="445" height="244" alt="image" src="https://github.com/user-attachments/assets/b5e238c8-f72f-45ac-bb92-7327b19674c5" />
-
+Python program for **Prim's Minimum Spanning Tree (MST)** algorithm is successfully verified.
 
