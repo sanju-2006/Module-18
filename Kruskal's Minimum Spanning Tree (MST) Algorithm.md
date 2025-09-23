@@ -98,14 +98,10 @@ g.KruskalMST()```
 
 ## OUTPUT
 
-Edges in the constructed MST
-2 -- 3 == 4
-0 -- 3 == 5
-0 -- 1 == 10
-Minimum Spanning Tree 19
+<img width="702" height="261" alt="image" src="https://github.com/user-attachments/assets/b0bb2f58-bf11-46ea-ab36-7bd062b9087e" />
 
 
 ## RESULT
+Python program for **Kruskal's algorithm** to find the Minimum Spanning Tree (MST) of a given connected, undirected, and weighted graph is successfully verified.
 
-<img width="702" height="261" alt="image" src="https://github.com/user-attachments/assets/b0bb2f58-bf11-46ea-ab36-7bd062b9087e" />
 
